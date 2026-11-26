@@ -1,0 +1,6 @@
+{
+  "name": "Crack Alert AI",
+  "description": "منظومة مراقبة السلامة الإنشائية والانبعاثات الصوتية بالزمن الحقيقي مع توأم رقمي ثنائي وثلاثي الأبعاد وربط مباشر بالأردوينو — Real-Time Structural Health Monitoring (SHM) & Acoustic Emission Digital Twin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
